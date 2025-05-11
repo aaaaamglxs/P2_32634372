@@ -1,0 +1,95 @@
+@font-face{
+    font-family: Poppins1;
+    src: url("Poppins/Poppins-Regular.ttf")
+}
+
+@font-face{
+    font-family: Poppins2;
+    src: url("Poppins/Poppins-Medium.ttf")
+}
+
+@font-face{
+    font-family: Poppins3;
+    src: url("Poppins/Poppins-SemiBold.ttf")
+}
+
+@font-face {
+    font-family: Poppins4;
+    src: url("Poppins/Poppins-Bold.ttf");
+}
+
+@font-face {
+    font-family: Poppins5;
+    src: url("Poppins/Poppins-ExtraBold.ttf");
+}
+
+body{
+    font-family: "Poppins2", sans-serif;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+form{
+    padding: 50px 55px;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+    border-radius: 20px;
+    text-align: center;
+    width: 340px;
+}
+
+.input-group{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+i{
+    flex-direction: column;
+    text-align: left;
+    top: 20px;
+    left: 35px;
+    transform: translateY(-50%);
+}
+
+h2{
+    color: #0077b6;
+    font-size: 35px;
+    text-align: center;
+}
+
+label{
+    color:#000;
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 15px;
+}
+
+input, textarea{
+    padding: 17px 25px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    background-color: #CAF0F8;
+    border: 2px solid #CAF0F8;
+    color: #48CAEA;
+    outline: none;
+}
+
+input::placeholder, textarea::placeholder{
+    color:#9dc7d1;
+}
+
+.btn{
+    font-size: 16px;
+    color: #ffffff;
+    border: 0;
+    border-radius: 25px;
+    background-color: #0096c7;
+    box-shadow: 0 0 20px #defff0;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: #023E8A;
+}

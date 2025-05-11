@@ -143,6 +143,33 @@ async index(req: Request, res: Response): Promise<void> {
 }
 
 
+  /**
+   * Renderiza la página principal con las imágenes disponibles
+   * @param {Request} req - Objeto de solicitud HTTP
+   * @param {Response} res - Objeto de respuesta HTTP
+   */
+async getPago(req: Request, res: Response): Promise<void> {
+  try {
+    res.render('Pago');
+  } catch (error: any) {
+    console.error(error.message);
+    res.status(500).send('Error en el servidor');
+  }
+}
+
+  /**
+   * Renderiza la página principal con las imágenes disponibles
+   * @param {Request} req - Objeto de solicitud HTTP
+   * @param {Response} res - Objeto de respuesta HTTP
+   */
+async getContacto(req: Request, res: Response): Promise<void> {
+  try {
+    res.render('Contacto');
+  } catch (error: any) {
+    console.error(error.message);
+    res.status(500).send('Error en el servidor');
+  }
+}
 
 }
 
