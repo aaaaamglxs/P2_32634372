@@ -1,0 +1,146 @@
+{
+  "index": {
+    "title": "SPORT&GO",
+    "menu": "Menu",
+    "nav": {
+      "contact": "Contact",
+      "payments": "Payments",
+      "services": "Services",
+      "login": "Login",
+      "contactList": "Contact List",
+      "paymentList": "Payment List"
+    },
+    "hero": {
+      "title": "SPORT&GO",
+      "subtitle": "Your ideal destination for sports equipment rental, where you can explore nature at your own pace with our kayak and bicycle adventures."
+    },
+    "about": {
+      "title": "What are Kayaks and Bicycles?",
+      "description": "Kayaks and bicycles are two types of transportation and recreation means used for different purposes:",
+      "kayak": {
+        "title": "KAYAK",
+        "description": "Small and lightweight boats, perfect for exploring calm waters or rivers. Used with paddles and adapted for sea, river or tourism."
+      },
+      "bicycle": {
+        "title": "BICYCLE",
+        "description": "Two-wheeled vehicles, ecological and healthy. Used in city or mountain, ideal for sport or recreation."
+      },
+      "seeMore": "See more"
+    },
+    "rental": {
+      "title": "Rental Services",
+      "subscription": {
+        "title": "Subscription Rental",
+        "description": "Pay a monthly fee for unlimited or limited access to kayaks and bicycles."
+      },
+      "daily": {
+        "title": "Daily Rental",
+        "description": "Rent by hours or days according to your adventure plan, you only pay for the time used."
+      },
+      "rentButton": "Rent"
+    },
+    "featured": {
+      "title": "Featured Services",
+      "kayakTour": {
+        "title": "Kayak Tour",
+        "description": "Explore lagoons and rivers on a guided tour with guaranteed safety."
+      },
+      "bicycleRoute": {
+        "title": "Bicycle Route",
+        "description": "Two-wheeled adventure through natural trails and ecological routes."
+      },
+      "familyPlan": {
+        "title": "Family Plan",
+        "description": "Enjoy with your family with equipment adapted for all ages and levels."
+      },
+      "acquire": "Acquire"
+    },
+    "footer": {
+      "socialMedia": "SOCIAL MEDIA"
+    }
+  },
+  "auth": {
+    "spanish": "Spanish",
+    "english": "English",
+    "login_tab": "Log In",
+    "register_tab": "Sign Up",
+    "login_title": "Log In",
+    "register_title": "Create Account",
+    "email_label": "Email Address",
+    "email_placeholder": "example@email.com",
+    "password_label": "Password",
+    "password_placeholder": "Enter your password",
+    "fullname_label": "Full Name",
+    "fullname_placeholder": "Your full name",
+    "confirm_password_label": "Confirm Password",
+    "confirm_password_placeholder": "Confirm your password",
+    "google_login": "Sign in with Google",
+    "login_button": "Log In",
+    "register_button": "Sign Up"
+  },
+    "contacto": {
+    "search_placeholder": "Search by name or email...",
+    "title": "Contact Records",
+    "total": "Total",
+    "no_records": "No contact records available.",
+    "table_headers": {
+      "name": "Name",
+      "country": "Country",
+      "email": "Email",
+      "comment": "Comment",
+      "ip": "IP",
+      "date": "Date"
+    }
+  },
+   "pagos": {
+    "search_label": "Search payments",
+    "search_placeholder": "Search by name or email...",
+    "status_label": "Payment status",
+    "all_statuses": "All statuses",
+    "status_approved": "Approved",
+    "status_rejected": "Rejected",
+    "status_pending": "Pending",
+    "service_label": "Service",
+    "all_services": "All services",
+    "monthly_sub": "Monthly Subscription",
+    "yearly_sub": "Yearly Subscription",
+    "start_date": "Start date",
+    "end_date": "End date",
+    "payment_records": "Payment Records",
+    "total": "Total",
+    "no_records": "No payment records available.",
+    "table": {
+      "cardholder": "Cardholder",
+      "email": "Email",
+      "description": "Description",
+      "card": "Card",
+      "expiry": "Expiry",
+      "currency": "Currency",
+      "amount": "Amount",
+      "reference": "Reference",
+      "date": "Date"
+    }
+  },
+  "paymentt": {
+    "title": "Payment Registration",
+    "subtitle": "Please enter the required information",
+    "form": {
+      "email": "Email Address",
+      "cardholder": "Cardholder Name",
+      "card_number": "Card Number",
+      "description": "Description",
+      "exp_date": "Expiration Date",
+      "month": "Month",
+      "year": "Year",
+      "cvv": "Security Code",
+      "amount": "Payment Amount",
+      "submit": "Process Payment"
+    },
+    "placeholders": {
+      "email": "example@domain.com",
+      "cardholder": "As it appears on card",
+      "description": "Enter payment description",
+      "cvv": "123"
+    }
+  }
+}

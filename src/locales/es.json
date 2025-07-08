@@ -1,0 +1,146 @@
+{
+  "index": {
+    "title": "SPORT&GO",
+    "menu": "Menú",
+    "nav": {
+      "contact": "Contacto",
+      "payments": "Pagos",
+      "services": "Servicios",
+      "login": "Inicio",
+      "contactList": "Listado Contactos",
+      "paymentList": "Listado pagos"
+    },
+    "hero": {
+      "title": "SPORT&GO",
+      "subtitle": "Tu destino ideal para alquiler de deportivos, donde podrás explorar la naturaleza a tu ritmo con nuestras aventuras en kayak y bicicleta."
+    },
+    "about": {
+      "title": "¿Qué son Kayaks y Bicicletas?",
+      "description": "Los kayaks y las bicicletas son dos tipos de medios de transporte y recreación utilizados para distintos propósitos:",
+      "kayak": {
+        "title": "KAYAK",
+        "description": "Embarcaciones pequeñas y ligeras, perfectas para explorar aguas tranquilas o ríos. Usados con remo y adaptados para mar, río o turismo."
+      },
+      "bicycle": {
+        "title": "BICICLETA",
+        "description": "Vehículos de dos ruedas, ecológicos y saludables. Usadas en ciudad o montaña, ideales para deporte o recreación."
+      },
+      "seeMore": "Ver más"
+    },
+    "rental": {
+      "title": "Servicios de Alquiler",
+      "subscription": {
+        "title": "Alquiler por Suscripción",
+        "description": "Paga una tarifa mensual para acceso ilimitado o limitado a kayaks y bicicletas."
+      },
+      "daily": {
+        "title": "Alquiler por Días",
+        "description": "Alquila por horas o días según tu plan de aventura, solo pagas por el tiempo utilizado."
+      },
+      "rentButton": "Alquilar"
+    },
+    "featured": {
+      "title": "Servicios Destacados",
+      "kayakTour": {
+        "title": "Tour en Kayak",
+        "description": "Explora lagunas y ríos en un recorrido guiado con seguridad garantizada."
+      },
+      "bicycleRoute": {
+        "title": "Ruta en Bicicleta",
+        "description": "Aventura en dos ruedas por senderos naturales y rutas ecológicas."
+      },
+      "familyPlan": {
+        "title": "Plan Familiar",
+        "description": "Disfruta en familia con equipo adaptado para todas las edades y niveles."
+      },
+      "acquire": "Adquirir"
+    },
+    "footer": {
+      "socialMedia": "REDES SOCIALES"
+    }
+  },
+  "auth": {
+    "spanish": "Español",
+    "english": "Inglés",
+    "login_tab": "Iniciar Sesión",
+    "register_tab": "Registrarse",
+    "login_title": "Iniciar Sesión",
+    "register_title": "Crear Cuenta",
+    "email_label": "Correo Electrónico",
+    "email_placeholder": "ejemplo@correo.com",
+    "password_label": "Contraseña",
+    "password_placeholder": "Ingresa tu contraseña",
+    "fullname_label": "Nombre Completo",
+    "fullname_placeholder": "Tu nombre completo",
+    "confirm_password_label": "Confirmar Contraseña",
+    "confirm_password_placeholder": "Confirma tu contraseña",
+    "google_login": "Iniciar sesión con Google",
+    "login_button": "Iniciar Sesión",
+    "register_button": "Registrarse"
+  },
+  "contacto": {
+    "search_placeholder": "Buscar por nombre o correo...",
+    "title": "Registros de Contacto",
+    "total": "Total",
+    "no_records": "No hay registros de contactos disponibles.",
+    "table_headers": {
+      "name": "Nombre",
+      "country": "País",
+      "email": "Correo",
+      "comment": "Comentario",
+      "ip": "IP",
+      "date": "Fecha"
+    }
+  },
+  "pagos": {
+    "search_label": "Buscar pagos",
+    "search_placeholder": "Buscar por nombre o correo...",
+    "status_label": "Estado del pago",
+    "all_statuses": "Todos los estados",
+    "status_approved": "Aprobado",
+    "status_rejected": "Rechazado",
+    "status_pending": "Pendiente",
+    "service_label": "Servicio",
+    "all_services": "Todos los servicios",
+    "monthly_sub": "Suscripción Mensual",
+    "yearly_sub": "Suscripción Anual",
+    "start_date": "Fecha inicial",
+    "end_date": "Fecha final",
+    "payment_records": "Registros de Pagos",
+    "total": "Total",
+    "no_records": "No hay registros de pagos disponibles.",
+    "table": {
+      "cardholder": "Titular",
+      "email": "Correo",
+      "description": "Descripción",
+      "card": "Tarjeta",
+      "expiry": "Expiración",
+      "currency": "Moneda",
+      "amount": "Monto",
+      "reference": "Referencia",
+      "date": "Fecha"
+    }
+  },
+  "paymentt": {
+    "title": "Registro de Pago",
+    "subtitle": "Ingrese los datos solicitados",
+    "form": {
+      "email": "Correo Electrónico",
+      "cardholder": "Nombre del Titular",
+      "card_number": "Número de Tarjeta",
+      "description": "Descripción",
+      "exp_date": "Fecha de Expiración",
+      "month": "Mes",
+      "year": "Año",
+      "cvv": "Código de Seguridad",
+      "amount": "Monto a Pagar",
+      "submit": "Realizar Pago"
+    },
+    "placeholders": {
+      "email": "ejemplo@dominio.com",
+      "cardholder": "Igual que en la tarjeta",
+      "description": "Ingrese descripción del pago",
+      "cvv": "123"
+    }
+  }
+}
